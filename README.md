@@ -153,7 +153,7 @@ PDF File With ScreenShoots and explanation about project :https://drive.google.c
 
 working project URL: https://srush2906.github.io/chocolux/
 
-Azure Account ID: vishubochare@gmail.com
+Azure Account ID: jawale.manjusha@gmail.com
 
 ## Acknowledgements
 My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy.
